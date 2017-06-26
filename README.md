@@ -5,6 +5,8 @@ Create your own homepage with beautiful responsive design
 Save the folder anywhere you want on a localdisk, or a server. Access to index.html on a browser, and here you go!
 
 ![alt text](http://huntervcx.ga/i/firefox_2017-06-26_19-44-44.png)
+![alt text](http://huntervcx.ga/i/2017-06-26_19-48-10.png)
+
 
 
 ************
