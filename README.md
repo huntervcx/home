@@ -4,6 +4,8 @@ Create your own homepage with beautiful responsive design
 
 Save the folder anywhere you want on a localdisk, or a server. Access to index.html on a browser, and here you go!
 
+![alt text](http://huntervcx.ga/i/firefox_2017-06-26_19-44-44.png)
+
 
 ************
 In mozilla Firefox, I recommend the extension new tab
@@ -13,7 +15,7 @@ https://addons.mozilla.org/fr/firefox/addon/new-tab-override/
 
 
 
---------
+
 PERSONALISATION
 
 here are the most important lines to changes. Just edit the file index.html with any notepad.
