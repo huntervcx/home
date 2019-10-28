@@ -1,9 +1,7 @@
 var apiUrl = "http://go.infinise.com/api/2.5/";
 
-
 /*	GOOGLE
 	----------------------------------------------------- */
-
 eng.google = {
 	pageTitle: "Google",
 	logo: "google.png",
@@ -14,10 +12,8 @@ eng.google = {
 	}
 };
 
-
 /*	WIKIPEDIA
 	----------------------------------------------------- */
-
 eng.wikipedia = {
 	pageTitle: "Wikipedia",
 	logo: "wikipedia.png",
@@ -26,15 +22,13 @@ eng.wikipedia = {
 		'Go to Article' : ["http://%lang%.wikipedia.org/wiki/Special:Search?search=%query%&go=Go",				apiUrl+"?eng=wikipedia&timestamp=%time%&q=%query%&hl=%lang%"],
 	},
 	languages: {
-		'': 'fr'
+		'': 'en'
 
 	}
 };
 
-
 /*	YOUTUBE
 	----------------------------------------------------- */
-
 eng.youtube = {
 	pageTitle: "YouTube",
 	logo: "youtube.png",
@@ -43,10 +37,8 @@ eng.youtube = {
 	},
 };
 
-
 /*	TWITTER
 	----------------------------------------------------- */
-
 eng.twitter = {
 	pageTitle: "Twitter",
 	logo: "twitter.png",

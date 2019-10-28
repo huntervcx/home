@@ -1,8 +1,7 @@
-
 var eng = {},
 	current = {},
 	fadeDur = 200,
-	titlePrefix = "Jawn Search : ",
+	titlePrefix = "Fabely Search : ",
 
 	idxWidth = 700,
 	idxLogoFull  = [225,80],
